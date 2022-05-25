@@ -1725,3 +1725,6 @@ https://github.com/ContentCenterize/Website
 ### Hack Club
 [Hack Club](https://hackclub.com) is a global nonprofit network of high school hackers, makers, and coders, fully open source and transparent.
 https://hackclub.com/opensource
+### Epic Coders
+Epic Coders ia a nonprofit that preserves coding for the future by doing diffrent coding projects and donating to teach coding to poor kids.
+https://epicoders.cf
